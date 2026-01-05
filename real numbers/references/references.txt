@@ -1,0 +1,43 @@
+@article{Alaoglu1944,
+   author = {L. Alaoglu and P. Erdös},
+   doi = {10.1090/s0002-9947-1944-0011087-2},
+   issn = {0002-9947},
+   issue = {0},
+   journal = {Transactions of the American Mathematical Society},
+   title = {On highly composite and similar numbers},
+   volume = {56},
+   year = {1944}
+}
+@article{Gronwall1913,
+   author = {T. H. Gronwall},
+   doi = {10.2307/1988773},
+   issn = {00029947},
+   issue = {1},
+   journal = {Transactions of the American Mathematical Society},
+   title = {Some Asymptotic Expressions in the Theory of Numbers},
+   volume = {14},
+   year = {1913}
+}
+@article{Nicolas1983,
+   abstract = {Let φ be the Euler's function. A question of Rosser and Schoenfeld is answered, showing that there exists infinitely many n such that n φ(n) > ey log log n, where γ is the Euler's constant. More precisely, if Nk is the product of the first k primes, it is proved that, under the Riemann's hypothesis, Nk φ(Nk) > ey log log Nk holds for any k ≥ 2, and, if the Riemann's hypothesis is false this inequality holds for infinitely many k, and is false for infinitely many k. © 1983.},
+   author = {Jean Louis Nicolas},
+   doi = {10.1016/0022-314X(83)90055-0},
+   issn = {0022314X},
+   issue = {3},
+   journal = {Journal of Number Theory},
+   title = {Petites valeurs de la fonction d'Euler},
+   volume = {17},
+   year = {1983}
+}
+@article{Spira1961,
+   abstract = {JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.. Mathematical Association of America is collaborating with JSTOR to digitize, preserve and extend access to The American Mathematical Monthly.},
+   author = {Robert Spira},
+   doi = {10.1080/00029890.1961.11989634},
+   issue = {2},
+   journal = {Source: The American Mathematical Monthly},
+   pages = {120-124},
+   title = {The Complex Sum of Divisors},
+   volume = {68},
+   url = {https://doi.org/10.1080/00029890.1961.11989634},
+   year = {1961}
+}
